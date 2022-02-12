@@ -32,3 +32,15 @@ randomSeed : 5289687542308609865689117713101168977638483261582706396381952589927
 | 1      | 5      | 0.0010584250635055038  |
 | 1      | 8      | 0.001693480101608806   |
 
+## Instruction to verify your entry
+1. Go to [the contract on polygonscan](https://polygonscan.com/address/0xdc9b0af748272e154cd4cde7752222328fc1453f#readContract) and locate method `6. verifyProof`
+2. Find you merkle proof in [data/proofs.json](./data/proofs.json)
+3. Copy & Paste `idx`, `proof`, `weight` into the the boxes. And also your address into the `account`.
+4. Put `B52973868C09627040A559FC6A785817CAEA05C11672383C8836CF5BFBB54C05` merkle root into the `merkleRoot (bytes32)`
+5. Click `Query`. If you see `true`, you successfully enter the raffle.
+
+## Instruction to get winners from contract
+1. Go to [the contract on polygonscan](https://polygonscan.com/address/0xdc9b0af748272e154cd4cde7752222328fc1453f#readContract) and locate method `4. getWinners`
+2. Put `B52973868C09627040A559FC6A785817CAEA05C11672383C8836CF5BFBB54C05` merkle root into the `merkleRoot (bytes32)`
+3. Put `1000` into `n` and `0` into `skip`
+4. Click `Query`. First 100 unique numbers are the winners' `idx` in the [data/proof](./data/proofs.json)
