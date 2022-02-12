@@ -1,6 +1,8 @@
 # club721-ali-whitelist-raffle
 [ALI](https://www.alinft.io/home) whitelist raffle for club721 membership holders.
 
+## contract
+A [contract](https://polygonscan.com/address/0xdc9b0af748272e154cd4cde7752222328fc1453f) used for this raffle
 
 ## raffle outcome
 raffle [event](https://polygonscan.com/tx/0x1fdef80d71e16220b2cb8b87496e5b3ca66d496b7ecb6e99b69ba08405eb26ee#eventlog)
