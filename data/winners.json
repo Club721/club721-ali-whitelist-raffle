@@ -1,0 +1,602 @@
+[
+ {
+  "idx": 13,
+  "wallet": "0x3a94a15D0889bEa734a845ABAc946Dee81210566",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 1434,
+  "wallet": "0x620b003F02c2056D6Bf518c816671a5d9502cdb8",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 180,
+  "wallet": "0x3a327EaaFD07A8F4f5001481943E69D8c618e2FB",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 9,
+  "wallet": "0x39eD125B7B63279B304d75b070b84D43c17fbC17",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 1738,
+  "wallet": "0x5776f289CAAbBF7f79B3ffeCc1f495C652D58743",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 187,
+  "wallet": "0x171C8bE8b92674F7d7B0593ACA4619a25a40b6F0",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 868,
+  "wallet": "0xC23fE08d5bb9a3405033E970B5f87f3E67C031E8",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 249,
+  "wallet": "0x5Bf54BbA852318bEFE75afCe2da2cA3C865fdE4c",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 59,
+  "wallet": "0xeb271eD97716a0b58D201A448fD06C91ee950496",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 1597,
+  "wallet": "0xCf8272930FBBe4CBDd09f9f8C17B925537DedEF6",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 232,
+  "wallet": "0xb597B202294Dd5a4A616FCc2F178588BFc6D2c16",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 250,
+  "wallet": "0x91f0780B4b7A6087a5F839B2e8D0622035507D35",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 1037,
+  "wallet": "0xdA9A8dFc92D776b099c3b16834528C5CB73d8B4a",
+  "weight": 2,
+  "discord": ""
+ },
+ {
+  "idx": 836,
+  "wallet": "0xf7A2843e1c03764f453e8e51B3D2A76C5245A2cB",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 181,
+  "wallet": "0xe6a42207C3e008df25EDB2cDeF9d0373a3858c4A",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 119,
+  "wallet": "0xCA3A56DF7deaE832841AF8D7b983e4c3aB6749E2",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 87,
+  "wallet": "0x4bc91Bd7126B68CBD18F367E59754b878b72B848",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 6,
+  "wallet": "0x11D3D7a8E98e25081fA16D5660ADab6eB3952999",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 204,
+  "wallet": "0x0e2E64916a3a7f97Fe4a78a0c06180911CAD19E7",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 879,
+  "wallet": "0xC74b209fe38EcED29105C802FfB4BA280895546A",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 175,
+  "wallet": "0x55E5C1d069Fdc0489fcfCeB0564D29acdBfAF386",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 134,
+  "wallet": "0x248b73cA85226bC08F158c9453af9F08650B7F1f",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 126,
+  "wallet": "0x3c60ACF76219517511bbcD57f07906B882dE67db",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 67,
+  "wallet": "0xf79a52271367Ad0084F07d1234D59E7638134fEe",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 68,
+  "wallet": "0xc133c65519DACA0485F4bf5EFBf123Ac195095c2",
+  "weight": 11,
+  "discord": ""
+ },
+ {
+  "idx": 81,
+  "wallet": "0x0b50844B7b1E4885c3498f047Cc6dcc36103313E",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 143,
+  "wallet": "0xdcf5bF70535F3680a5AD5E16Ee485153546E1ea0",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 210,
+  "wallet": "0x013e9f11802438268E42D0e8c8ECf181810FdF8a",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 116,
+  "wallet": "0x7B57db50F91356AbE299605095775a6246742538",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 191,
+  "wallet": "0xb28E5A0CEd9b51335136CD65e46A4EDFA17ee231",
+  "weight": 11,
+  "discord": ""
+ },
+ {
+  "idx": 128,
+  "wallet": "0x46Db5429Eb5b2F710ED88e51F3f7f01952d8488f",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 1460,
+  "wallet": "0x217a2c6ea3DB671db6d184065414c6798eEFb581",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 1537,
+  "wallet": "0x1F5638B94302B8FfC6a92d68472594eD8F9d9FBb",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 162,
+  "wallet": "0x9C724A8662c3FBd4bF7fef8ff61a3983AA4A1296",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 1582,
+  "wallet": "0xd7E2f031d735b9eBb55dFa865b7b5Bf7Adfa40cC",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 490,
+  "wallet": "0x2d069b426d9Cef4909Aa7c03a2DA4bC1B3c25007",
+  "weight": 2,
+  "discord": ""
+ },
+ {
+  "idx": 1135,
+  "wallet": "0x7AF57a5e18bac6aC1C538449f4f5c88887b16318",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 595,
+  "wallet": "0xa3D1e7Ad95976b7703340F3D145464195E1B3fbF",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 1195,
+  "wallet": "0x826A98010ff540791a150111164191dC8B02e5dE",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 267,
+  "wallet": "0x80aFA2266d0236305bEddFe730de8E7F0F922b9F",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 296,
+  "wallet": "0x48D6E527Bb392C2ec282454EdBF86262b2DA49b5",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 243,
+  "wallet": "0x0B49b8D92A194168B2425206Aa594b0426bB8004",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 1042,
+  "wallet": "0x02147aE590D741060C18Bdd0eFf12999995eE3d6",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 62,
+  "wallet": "0x5e36704F9982C1e175D70E7F658F88102Df443f2",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 1416,
+  "wallet": "0xaF16EA7aF4564A7c5d3B2792136a7E7c3CC9a75c",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 254,
+  "wallet": "0x26D7AAFF714c82beD2b48Cd2e3a157F05ba686b0",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 244,
+  "wallet": "0xCf2b7c6Bc98bfE0D6138A25a3b6162B51F75e05d",
+  "weight": 15,
+  "discord": ""
+ },
+ {
+  "idx": 130,
+  "wallet": "0xF4fB7b8DE97861533A920c571771FDB850Ce0D5A",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 293,
+  "wallet": "0x38977BdaA4dd11eB44CFb36Bd68575B75D467052",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 229,
+  "wallet": "0x928Fea96fF6e9460b094ca6e387A87D6053780B6",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 270,
+  "wallet": "0x60fF54a44835fcC96121Cb250E76bCA420489Fc0",
+  "weight": 11,
+  "discord": ""
+ },
+ {
+  "idx": 53,
+  "wallet": "0x31D17571bd2aA0C67ad21D1f6887b1A63e246c84",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 131,
+  "wallet": "0x5198B9CaFaA588870D10a127F1e249B18c0Fa2Bd",
+  "weight": 11,
+  "discord": ""
+ },
+ {
+  "idx": 251,
+  "wallet": "0x9A04522EE9e33027A6CfF2280388b8d9B77D1e5f",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 1722,
+  "wallet": "0x03606250b289080D465fd4D680E9243488B0d6CA",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 10,
+  "wallet": "0xA34b23d7ADf9490bDD754A1cBEf01E8d9510710B",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 84,
+  "wallet": "0xf92f571Fd4ed497f672D4F37F46ee02eb13b63C8",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 192,
+  "wallet": "0x9Cc0b84cf37c150B7C276820bC75681594d734a5",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 1510,
+  "wallet": "0x65Bc81972811c7BaB028d70997a0B7F03B12f8ef",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 30,
+  "wallet": "0x2f017B3272E815b7857965aD2b08cEC57A887D16",
+  "weight": 11,
+  "discord": ""
+ },
+ {
+  "idx": 223,
+  "wallet": "0x9D0E59761e25c71A1530Fd736043cC88c28eebC0",
+  "weight": 11,
+  "discord": ""
+ },
+ {
+  "idx": 1751,
+  "wallet": "0xa72781a88D5cB4cAa1bA7cDF7Bd3bCE78212D6fF",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 144,
+  "wallet": "0x60ba10DD8664cA8dEFD8736D52478c06c8392525",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 12,
+  "wallet": "0x2a5Ac02BCb01A44C661129625355EF91D608A29b",
+  "weight": 11,
+  "discord": ""
+ },
+ {
+  "idx": 64,
+  "wallet": "0x315E1A5C796B734585c27E615b774441372Fbd08",
+  "weight": 11,
+  "discord": ""
+ },
+ {
+  "idx": 208,
+  "wallet": "0x62F5F112983c0291BA7b2b2768ee779570717f69",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 174,
+  "wallet": "0x0d1A344f1C868F799f335393b95a4E0730838a85",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 194,
+  "wallet": "0xB316325A92023918b4dA5ccF08D988Ac0A97cB7E",
+  "weight": 11,
+  "discord": ""
+ },
+ {
+  "idx": 77,
+  "wallet": "0xb6597A7F42F3fF464cCa9AAF1B1fF95875de2DF6",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 42,
+  "wallet": "0x76149d87A6bA9eA3c864d0643210e71393dD7777",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 574,
+  "wallet": "0xc4996857d25e902eBEa251621b758F86D3761C0f",
+  "weight": 2,
+  "discord": ""
+ },
+ {
+  "idx": 497,
+  "wallet": "0x927EA8c249d33684e881174a1B53f1f41AD518b5",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 265,
+  "wallet": "0xdaADeE2238832a67b43C7f6f51fE09140428f7EC",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 1491,
+  "wallet": "0x891b1B90ACc5481B829a0E365AE3442318470849",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 1509,
+  "wallet": "0x6F33bB1763EEBEad07CF8815A62fCD7b30311Fa3",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 292,
+  "wallet": "0x6a6a45D79C15710aeD629CF2E76c1C8F5d3c45a1",
+  "weight": 11,
+  "discord": ""
+ },
+ {
+  "idx": 287,
+  "wallet": "0x84A56Dfe47950Fb3901Ac181C1AC8d8cbC84d919",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 141,
+  "wallet": "0xc32438f7e4d3444aCb88C23eCDadbc9989acC344",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 154,
+  "wallet": "0x6e19cE8aF8c4Eb668840680a38C12FD7390Cdc42",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 193,
+  "wallet": "0x68cDe2976C79846c8EbFc9925616440bcFaE0894",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 289,
+  "wallet": "0x67248F105749b60045d89869c33B8beC986897eB",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 1737,
+  "wallet": "0x8539cEB2579f9f353F69C6b4FC1c471d189B9CC9",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 63,
+  "wallet": "0x83448a9cdCb456Bb58577C141Cd77e311244A156",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 153,
+  "wallet": "0x32C909157C5889Ed6890DA21055e4cea8ea91a1c",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 1182,
+  "wallet": "0x6038993f3512273f7f43C617237e6EE71d7886a1",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 221,
+  "wallet": "0xf09EC70c9FF2e64d90f5209a19aE65eD02D87be3",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 198,
+  "wallet": "0x90d24be3AD71D7ee82f838543Db359415EAD837e",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 142,
+  "wallet": "0xb0151D256ee16d847F080691C3529F316b2D54b3",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 480,
+  "wallet": "0x6311b3168163AAC3c4bDFbc856106bd3dA95989E",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 52,
+  "wallet": "0x92D7AAc06D1F44e3153B1c89f6C3d918D906691C",
+  "weight": 11,
+  "discord": ""
+ },
+ {
+  "idx": 271,
+  "wallet": "0x4d4696D98a6A669036894Cbcf4cF7f72666a8557",
+  "weight": 11,
+  "discord": ""
+ },
+ {
+  "idx": 17,
+  "wallet": "0x325c08A558ff02F244F31Ba1e87Bf3c1b1C08f45",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 56,
+  "wallet": "0x8504A09352555ff1acF9C8a8D9fB5FDcC4161cbc",
+  "weight": 11,
+  "discord": ""
+ },
+ {
+  "idx": 1721,
+  "wallet": "0x8A0cd862E70f27670A12B7FB89Ab9ab56052b599",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 41,
+  "wallet": "0xDE14CF450D7b154cB6976EF033c59c6B4CA989bC",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 1544,
+  "wallet": "0x63e649Aab85200B4F128F657df4e17102abfc78E",
+  "weight": 1,
+  "discord": ""
+ },
+ {
+  "idx": 197,
+  "wallet": "0xF62C9ebf99607Be71567c35a3E066E5b90bAA7eB",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 173,
+  "wallet": "0x3d04A7aF9E98C75A2c5C75B6521a1C69C3B2E7b7",
+  "weight": 10,
+  "discord": ""
+ },
+ {
+  "idx": 83,
+  "wallet": "0xCA4A00C67d939640332fE2f83eB0C41C52f989C1",
+  "weight": 11,
+  "discord": ""
+ },
+ {
+  "idx": 998,
+  "wallet": "0x834BDa56A462a7c11fC53d301462D546120c6bf1",
+  "weight": 1,
+  "discord": ""
+ }
+]
