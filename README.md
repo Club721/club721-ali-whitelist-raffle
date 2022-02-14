@@ -6,7 +6,7 @@ Holders' data are based on block [14191694](https://etherscan.io/block/14191694)
 `Feb-12-2022 01:59:59 PM +UTC`
 
 ## Raffle Contract
-A [contract](https://polygonscan.com/address/0xdc9b0af748272e154cd4cde7752222328fc1453f) used for this raffle
+A [contract](https://polygonscan.com/address/0xdc9b0af748272e154cd4cde7752222328fc1453f) used for this raffle, using [ChainLink](https://chain.link/).
 
 ## Raffle Outcome
 raffle [event](https://polygonscan.com/tx/0x1fdef80d71e16220b2cb8b87496e5b3ca66d496b7ecb6e99b69ba08405eb26ee#eventlog)
